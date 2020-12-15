@@ -292,83 +292,104 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCBRKLIW
 
+[Document16]
+DocumentPath=PvLib.PvLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SamplerBoard\PCB.DRR
+DocumentPath=Project Outputs for SamplerBoard\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SamplerBoard\PCB.EXTREP
+DocumentPath=Project Outputs for SamplerBoard\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SamplerBoard\PCB.G1
+DocumentPath=Project Outputs for SamplerBoard\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SamplerBoard\PCB.G2
+DocumentPath=Project Outputs for SamplerBoard\PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SamplerBoard\PCB.G3
+DocumentPath=Project Outputs for SamplerBoard\PCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SamplerBoard\PCB.G4
+DocumentPath=Project Outputs for SamplerBoard\PCB.G3
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GBL
+DocumentPath=Project Outputs for SamplerBoard\PCB.G4
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GBO
+DocumentPath=Project Outputs for SamplerBoard\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GBP
+DocumentPath=Project Outputs for SamplerBoard\PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GBS
+DocumentPath=Project Outputs for SamplerBoard\PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GKO
+DocumentPath=Project Outputs for SamplerBoard\PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GM1
+DocumentPath=Project Outputs for SamplerBoard\PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GTL
+DocumentPath=Project Outputs for SamplerBoard\PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GTO
+DocumentPath=Project Outputs for SamplerBoard\PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GTP
+DocumentPath=Project Outputs for SamplerBoard\PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SamplerBoard\PCB.GTS
+DocumentPath=Project Outputs for SamplerBoard\PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SamplerBoard\PCB.LDP
+DocumentPath=Project Outputs for SamplerBoard\PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SamplerBoard\PCB.REP
+DocumentPath=Project Outputs for SamplerBoard\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SamplerBoard\PCB.RUL
+DocumentPath=Project Outputs for SamplerBoard\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for SamplerBoard\PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for SamplerBoard\PCB.TXT
 DItemRevisionGUID=
 
@@ -530,7 +551,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HPC7BCD1.localdomain (HP OfficeJet 5200 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
